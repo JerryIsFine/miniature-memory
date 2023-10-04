@@ -1,2 +1,3 @@
 # miniature-memory
 这是一个由一名大二计科小白创建的repository，用于尝试Github的各种功能！
+如你所见，我尝试如何编辑并使用README文件去装饰我的repository！
